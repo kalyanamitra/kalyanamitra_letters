@@ -1,0 +1,29 @@
+[
+  {
+    "number": 1,
+    "date": "2026-09-20",
+    "title": "So, What Is Death?",
+    "description": "A reader writes about death. Facing it feels possible in principle, but something feels inherently unfair about one's life coming to an end. The reply doesn't try to solve the question but reframes death entirely, turning to impermanence, and to what happens when we let the mystery in rather than argue with it.",
+    "letter_images": [
+      "images/correspondence/001_2026-09-20/letter_p1.jpg",
+      "images/correspondence/001_2026-09-20/letter_p2.jpg"
+    ],
+    "letter_thumb": "images/correspondence/001_2026-09-20/letter_p1_thumb.jpg",
+    "reply_images": [
+      "images/correspondence/001_2026-09-20/reply_p1.jpg",
+      "images/correspondence/001_2026-09-20/reply_p2.jpg",
+      "images/correspondence/001_2026-09-20/reply_p3.jpg",
+      "images/correspondence/001_2026-09-20/reply_p4.jpg",
+      "images/correspondence/001_2026-09-20/reply_p5.jpg",
+      "images/correspondence/001_2026-09-20/reply_p6.jpg",
+      "images/correspondence/001_2026-09-20/reply_p7.jpg"
+    ],
+    "reply_thumb": "images/correspondence/001_2026-09-20/reply_p1_thumb.jpg",
+    "tags": [
+      "death",
+      "impermanence",
+      "mystery",
+      "gratitude"
+    ]
+  }
+]
