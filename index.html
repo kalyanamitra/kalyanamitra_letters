@@ -135,6 +135,12 @@ img { max-width: 100%; height: auto; }
   .km-lightbox-inner { padding: 48px 8px 24px; }
   .km-lightbox-close { top: 8px; right: 14px; font-size: 28px; }
 }
+/* Readability: heading spacing on phones, body line spacing (Oct 16, 2026) */
+.km-page-container p, .km-page-container li { line-height: 1.5; }
+@media (max-width: 600px) {
+  .km-page-container h1 { margin: 0; padding-top: 8px; padding-bottom: 8px; }
+  .km-page-container h2 { margin: 0; padding-top: 24px; padding-bottom: 6px; }
+}
 </style>
 </head>
 <body class="c4 doc-content km-page-container">
